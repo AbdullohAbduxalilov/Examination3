@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-##O'rta arifmetik va factorialini.. hisoblovchi app, hamda fake participants scorelari bilan, hamda bitta faqat calculator UI
+O'rta arifmetik va factorialini.. hisoblovchi app, hamda fake participants scorelari bilan, hamda bitta faqat calculator UI
 
 <a href="https://ibb.co/WtQkpzF"><img src="https://i.ibb.co/VmdgpCD/Screenshot-1634652731.png" alt="Screenshot-1634652731" border="0" width="250"></a>
 <a href="https://ibb.co/93HYJYV"><img src="https://i.ibb.co/wrh6T6w/Screenshot-1634652735.png" alt="Screenshot-1634652735" border="0" width="250"></a>
